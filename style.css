@@ -1,0 +1,92 @@
+body{
+	background: orange;
+}
+
+h1, h2, h3 {
+	text-align: center;
+	font-size: 30pt;
+	font-style: italic;
+	padding: 0px;
+	border: solid;
+}
+
+p{
+	font-style: helvetica;
+	font-size: 28pt;
+	text-indent: 50px;
+	font-weight: bold;
+}
+
+ul li{
+	font-size: 16pt;
+	font-weight: bold;
+}
+
+.navbar li {
+	display: inline;
+	padding: 20pt;
+	border-radius: 10px;
+}
+
+.wrapper{
+	width: 900px;
+	margin: 0 auto;
+	background-color: gray;
+}
+
+#info{
+	float:left;
+	background: gray;
+	width: 50%;
+}
+
+#fitnessPic{
+	float: right;
+	width: 50%
+}
+
+.lefticon{
+	float: left;
+	width: 50%;
+	height: auto;
+	display: inline;
+	background: gray;
+}
+
+.righticon{
+	float: right;
+	width: 50%;
+	height: auto;
+	display: inline;
+	background: gray;
+}
+
+
+/*Schedule*/
+.listfloat{
+	float:left;
+	display: block;
+}
+
+.listfloat img {
+	width: 500px;
+	height: 500px;
+	width: 30%;
+	height: auto;
+	float: left;
+	display: block;
+}
+
+/*Contact*/
+#colleft{
+	float:left;
+	background: grey;
+	width: 50%;
+}
+
+#colright{
+	float: right;
+	width: 50%
+}
+
+
